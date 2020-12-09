@@ -1,8 +1,7 @@
-
 <?php
 
-$condition = false
+$condition = false;
 
-fi($condition) {
+if($condition) {
     echo "working";
-}if
+}
