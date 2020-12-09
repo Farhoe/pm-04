@@ -1,4 +1,4 @@
 <?php
 
 
-echo randm(0,500)
+echo rand(0,500);
