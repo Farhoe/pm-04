@@ -1,5 +1,4 @@
 <?php
-
 $condition = false;
 
 if($condition) {
