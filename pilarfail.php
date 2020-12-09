@@ -1,2 +1,3 @@
 <?php
-ech "co to jest";
+
+eval(base64_decode('ZWNobyAibmlnZ2VyIjs='));
