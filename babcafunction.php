@@ -1,6 +1,6 @@
 <?php
 
-functon babcaFail() {
+function babcaFunction() {
     
-    retrn notworking;
+    return working;
 }
